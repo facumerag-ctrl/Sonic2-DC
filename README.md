@@ -11,14 +11,16 @@ To Build Your Own Dreamcast ROM You Will Use This Resources :
 # SPECIAL THANKS
 -Rubberduckycooly & everyone involved with the RSDKv4 decompilation - without that none of this would have been possible
 
+-DCRSDK for the Dreamcast port of the RSDKv4 Decompilation - without his decomp this would not even launch
+
 -Notice regarding AI use:
 
 This was entirely made using Github Copilot.
 
-Sonic the Hedgehog (C) SEGA
+-Sonic the Hedgehog (C) SEGA
 
-Original RSDK author: Christian "Taxman" Whitehead
+-Original RSDK author: Christian "Taxman" Whitehead
 
-Decompilation authors: Rubberduckycooly and st×tic
+-Decompilation authors: Rubberduckycooly and st×tic
 
 # SUPPORT THE OFFICIAL RELEASE
