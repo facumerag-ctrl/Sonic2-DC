@@ -4,7 +4,7 @@ A Port Of Sonic 2 (2013) For The SEGA Dreamcast
 # HOW TO BUILD
 To Build Your Own Dreamcast ROM You Will Use This Resources :
 
-+ [The Sonic 2-DC Autobuilder] (https://colab.research.google.com/drive/1rIR-r73IZijI9ao3pKKgNuGoNnmM5HjI?usp=sharing)
++ [The Sonic 2-DC Autobuilder](https://colab.research.google.com/drive/1rIR-r73IZijI9ao3pKKgNuGoNnmM5HjI?usp=sharing)
 
 + Data.rsdk from the mobile remaster of Sonic 2 (Not Provided)
 
